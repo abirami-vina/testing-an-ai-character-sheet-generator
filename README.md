@@ -1,4 +1,4 @@
-# 2. AI Character Sheet Generator Test: Prompts, Outputs, and Consistency Notes
+# AI Character Sheet Generator Test: Prompts, Outputs, and Consistency Notes
 
 > See how Tsubaki.3 works as an AI character sheet generator, turning a single image into a detailed, reusable sheet for your original character.
 
