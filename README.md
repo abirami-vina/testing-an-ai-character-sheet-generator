@@ -198,7 +198,7 @@ Used together, they give you far more to work from than a single image does. You
 
 Since the results stay consistent across sheets, they also work as a starting point rather than just a checking tool. The manga panels below were built from the sheets generated earlier in this article, using both the expression and turnaround sheets as reference.
 
-![A set of manga panels featuring the same anime girl with round glasses, dark hair, and a layered dark outfit, shown in close-ups, back views, and wide library shots, with the monochrome version on the left and the color version on the right, generated using PixAI character reference sheets.](images/10-manga-panels.png)
+<img width="1080" height="1080" alt="A set of manga panels featuring the same anime girl with round glasses, dark hair, and a layered dark outfit, shown in close-ups, back views, and wide library shots, with the monochrome version on the left and the color version on the right, generated using PixAI character reference sheets." src="https://github.com/user-attachments/assets/a15018f3-038c-4a29-8bd2-c31b1206f34d" />
 
 *Manga panels created using the expression and turnaround sheets as reference, shown in monochrome on the left and in color on the right.*
 
